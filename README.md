@@ -47,12 +47,14 @@
 
 #### 🔑 **AI Virtual Input Devices** 
 ✔️ Developed a **gesture-controlled virtual mouse & keyboard** using **OpenCV & Mediapipe**  
-✔️ Achieved **87.3% accuracy** for gesture-based interactions  
+✔️ Achieved **87.3% accuracy** for gesture-based interactions 
+
+[Explore all Projects](https://github.com/Sneh-Trivedi/Github-Index)
 
 ---
 
 ## 🚀 **Currently Learning**
-🔹 **Advanced Full Stack Development** (MERN Stack, WebGL, Next.js)  
+🔹 **Advanced Full Stack Development**  
 🔹 **Solving Leetcode** (Algorithm mastery 🏆)  
 
 ---
