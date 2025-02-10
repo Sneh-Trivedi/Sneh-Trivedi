@@ -37,14 +37,14 @@
 
 ## 📌 **Projects Highlights**
 #### 🎯 **Application of Metaheuristic Algorithms to Optimize Controller Placement in SDNs** 
-✔️ Developed a Genetic Algorithm (GA) to optimize controller placement, achieving a **33.33% cost reduction** compared to traditional greedy methods. 
-✔️ Analyzed real-world topologies like the Janet Backbone network using distance metrics based on the Haversine formula.
+✔️ Developed a Genetic Algorithm (GA) to optimize controller placement, achieving a **33.33% cost reduction** compared to traditional greedy methods.  
+✔️ Analyzed real-world topologies like the Janet Backbone network using distance metrics based on the Haversine formula.  
 ✔️ Enhanced network performance by minimizing latency and reducing routing costs in Software-Defined Networks (SDNs).  
 ✔️ Conducted parameter optimization and implemented scalable solutions for networks with up to **100 switches.**  
 
 #### 🏡 **Implementation of Energy Efficient ASCON80pq on ChipWhisperer Nano** 
-✔️ Successfully implemented and optimized the ASCON-80pq cryptographic algorithm on the ChipWhisperer Nano platform, achieving over **30% energy efficiency** improvements.
-✔️ Leveraged optimization techniques, including Loop Unrolling, to **reduce energy consumption for encryption and decryption processes by 32.4% and 30.3%, respectively.**
+✔️ Successfully implemented and optimized the ASCON-80pq cryptographic algorithm on the ChipWhisperer Nano platform, achieving over **30% energy efficiency** improvements.  
+✔️ Leveraged optimization techniques, including Loop Unrolling, to **reduce energy consumption for encryption and decryption processes by 32.4% and 30.3%, respectively.**  
 ✔️ Conducted detailed power trace analysis using Jupyter and integrated trigger mechanisms for precise measurement of cryptographic operations.
 
 #### 🔑 **AI Virtual Input Devices** 
